@@ -2,7 +2,7 @@
 
 by [Kirill Chmel](https://www.hse.ru/en/staff/kirill.chmel), [Aigul Klimova](https://www.hse.ru/en/staff/klimova), and [Nikita Savin](https://www.hse.ru/en/org/persons/14291998)
 
-**Publication:** currently, under consideration in *PLoS ONE* (Minor Revision, 23 July 2021).
+**Publication:** Chmel K, Klimova A, Savin N (2021) The effect of risk framing on support for restrictive government policy regarding the COVID-19 outbreak. PLoS ONE 16(10): e0258132. https://doi.org/10.1371/journal.pone.0258132
 
 ## Project Details
 
