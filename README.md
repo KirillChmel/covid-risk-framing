@@ -1,4 +1,4 @@
-# The effect of risk framing on support for restrictive government policy regarding the COVID-19 outbreak
+# The Effect of Risk Framing on Support for Restrictive Government Policy Regarding the COVID-19 Outbreak
 
 by [Kirill Chmel](https://www.hse.ru/en/staff/kirill.chmel), [Aigul Klimova](https://www.hse.ru/en/staff/klimova), and [Nikita Savin](https://www.hse.ru/en/org/persons/14291998)
 
