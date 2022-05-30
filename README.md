@@ -14,7 +14,6 @@ This confirmatory research investigates the influence of risk framing of COVID-1
 - `ChKS_2021_Data_Study1.Rdata` - convinience sample of ubiversity students (`N = 762`) used in Study 1;
 - `ChKS_2021_Data_Study2.Rdata` - a sample of volunteer online access panelists (`N = 1,570`) used in Study 2.
 
-
 ### R Code:
 - `covid-R1_File.R` - use this file to replicate the results of Study 1;
 - `covid-R2_File.R` - use this file to replicate the results of Study 2;
